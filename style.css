@@ -1,0 +1,40 @@
+*{
+    margin:0;
+    border:0;
+    padding:0;
+    box-sizing:border-box;
+}
+.main{
+    background-color: hsl(212, 45%, 89%);
+    font-size: 15px;   
+    margin: 50px;
+    padding: 100px;
+
+}
+.card {
+    background-color: hsl(0, 0%, 100%);    border-radius: 20px;
+    text-align: center;
+    width: 24%;
+    margin: 0 auto;
+}
+
+.img{
+    width: 300px;
+    border-radius: 20px;
+    padding: 20px;
+
+}
+.description h1{
+    font-size: 20px;
+    font-weight: 900;
+    color: hsl(218, 44%, 22%);
+    text-align: center;
+    padding: 0px 25px 20px;
+}
+.description p{
+    font-size: 16px;
+    font-weight: 400;
+    color: hsl(220, 15%, 55%);
+    text-align: center;
+    padding: 0px 20px 20px;
+}
